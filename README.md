@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Python developer.<br>🌱 I’m currently learning  Django, Javascript, ReactJS.<br>💬 Ask me about<br>⚡ Fun fact I love problem-solving.
+🔭 I’m a Backend Software Engineer with about 5+ years of experience, primarily working with Python and backend systems.<br>⚡ Fun fact I love problem-solving.
 
 
 ## 🌐 Socials:
